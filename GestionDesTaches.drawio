@@ -1,0 +1,61 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="wUt0OhcA3SIMVf4BhKMK">
+    <mxGraphModel dx="1417" dy="729" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="myWehZBtpSCy2dsrCY_x-1" parent="1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=27;fontStyle=1;verticalAlign=middle;align=center;autosizeText=1;" value="Page de gestion des tâches" vertex="1">
+          <mxGeometry height="110" width="370" x="220" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="myWehZBtpSCy2dsrCY_x-2" parent="1" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;labelPerimeter=1;" value="Elève" vertex="1">
+          <mxGeometry height="100" width="50" x="110" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="myWehZBtpSCy2dsrCY_x-3" parent="1" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;labelPerimeter=1;" value="Tuteur bénévole" vertex="1">
+          <mxGeometry height="100" width="50" x="110" y="515" as="geometry" />
+        </mxCell>
+        <mxCell id="myWehZBtpSCy2dsrCY_x-5" parent="1" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" value="Consulter la liste des tâches" vertex="1">
+          <mxGeometry height="60" width="120" x="345" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="myWehZBtpSCy2dsrCY_x-6" parent="1" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" value="Créer une tâche pour soi-même" vertex="1">
+          <mxGeometry height="60" width="120" x="345" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="myWehZBtpSCy2dsrCY_x-7" parent="1" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" value="Supprimer une tâche" vertex="1">
+          <mxGeometry height="60" width="120" x="345" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="myWehZBtpSCy2dsrCY_x-9" edge="1" parent="1" source="myWehZBtpSCy2dsrCY_x-2" style="edgeStyle=none;html=1;endArrow=none;verticalAlign=bottom;rounded=0;defaultLabelBackgroundColor=page;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endFill=0;" target="myWehZBtpSCy2dsrCY_x-5" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="340" y="390" as="sourcePoint" />
+            <mxPoint x="500" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="myWehZBtpSCy2dsrCY_x-10" edge="1" parent="1" style="edgeStyle=none;html=1;endArrow=none;verticalAlign=bottom;rounded=0;defaultLabelBackgroundColor=page;" target="myWehZBtpSCy2dsrCY_x-2" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="350" y="380" as="sourcePoint" />
+            <mxPoint x="510" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="myWehZBtpSCy2dsrCY_x-11" edge="1" parent="1" source="myWehZBtpSCy2dsrCY_x-7" style="edgeStyle=none;html=1;endArrow=none;verticalAlign=bottom;rounded=0;defaultLabelBackgroundColor=page;exitX=0.018;exitY=0.384;exitDx=0;exitDy=0;exitPerimeter=0;" target="myWehZBtpSCy2dsrCY_x-2" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="350" y="380" as="sourcePoint" />
+            <mxPoint x="170" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="myWehZBtpSCy2dsrCY_x-13" edge="1" parent="1" source="myWehZBtpSCy2dsrCY_x-15" style="edgeStyle=none;html=1;endArrow=none;verticalAlign=bottom;rounded=0;defaultLabelBackgroundColor=page;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="350" y="390" as="sourcePoint" />
+            <mxPoint x="190" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="myWehZBtpSCy2dsrCY_x-15" parent="1" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" value="Créer une tâche pour quelqu&#39;un qu&#39;on suit" vertex="1">
+          <mxGeometry height="60" width="120" x="340" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="myWehZBtpSCy2dsrCY_x-16" edge="1" parent="1" style="edgeStyle=none;html=1;endArrow=block;endFill=0;endSize=12;verticalAlign=bottom;rounded=0;defaultLabelBackgroundColor=page;" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="140" y="510" as="sourcePoint" />
+            <mxPoint x="140" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
