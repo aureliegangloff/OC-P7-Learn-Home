@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="TUEBVwH6wFXGY3Kydz-u">
-    <mxGraphModel dx="1417" dy="729" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1174" dy="604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry height="60" width="30" x="90" y="240" as="geometry" />
         </mxCell>
         <mxCell id="S8r8tHHm8G7nGBH0Lgci-2" parent="1" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;labelPerimeter=1;" value="Tuteur Bénévole" vertex="1">
-          <mxGeometry height="60" width="30" x="690" y="240" as="geometry" />
+          <mxGeometry height="60" width="30" x="90" y="450" as="geometry" />
         </mxCell>
         <mxCell id="S8r8tHHm8G7nGBH0Lgci-3" parent="1" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" value="Se connecter à son compte" vertex="1">
           <mxGeometry height="60" width="120" x="310" y="190" as="geometry" />
@@ -20,21 +20,15 @@
           <mxGeometry height="60" width="120" x="310" y="270" as="geometry" />
         </mxCell>
         <mxCell id="S8r8tHHm8G7nGBH0Lgci-6" parent="1" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" value="Créer un compte" vertex="1">
-          <mxGeometry height="60" width="120" x="310" y="450" as="geometry" />
+          <mxGeometry height="60" width="120" x="310" y="360" as="geometry" />
         </mxCell>
         <mxCell id="S8r8tHHm8G7nGBH0Lgci-7" parent="1" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" value="Modifier le mot de passe" vertex="1">
-          <mxGeometry height="60" width="120" x="310" y="360" as="geometry" />
+          <mxGeometry height="60" width="120" x="570" y="270" as="geometry" />
         </mxCell>
         <mxCell id="S8r8tHHm8G7nGBH0Lgci-9" edge="1" parent="1" style="edgeStyle=none;html=1;endArrow=none;verticalAlign=bottom;rounded=0;defaultLabelBackgroundColor=page;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endFill=0;" target="S8r8tHHm8G7nGBH0Lgci-3" value="">
           <mxGeometry relative="1" width="160" as="geometry">
             <mxPoint x="140" y="280" as="sourcePoint" />
             <mxPoint x="430" y="320" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="S8r8tHHm8G7nGBH0Lgci-10" edge="1" parent="1" source="S8r8tHHm8G7nGBH0Lgci-3" style="edgeStyle=none;html=1;endArrow=none;verticalAlign=bottom;rounded=0;defaultLabelBackgroundColor=page;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=none;startFill=0;" value="">
-          <mxGeometry relative="1" width="160" as="geometry">
-            <mxPoint x="270" y="320" as="sourcePoint" />
-            <mxPoint x="670" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="S8r8tHHm8G7nGBH0Lgci-11" edge="1" parent="1" style="edgeStyle=none;html=1;endArrow=none;verticalAlign=bottom;rounded=0;defaultLabelBackgroundColor=page;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endFill=0;" target="S8r8tHHm8G7nGBH0Lgci-5" value="">
@@ -43,13 +37,7 @@
             <mxPoint x="320" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="S8r8tHHm8G7nGBH0Lgci-12" edge="1" parent="1" source="S8r8tHHm8G7nGBH0Lgci-5" style="edgeStyle=none;html=1;endArrow=none;verticalAlign=bottom;rounded=0;defaultLabelBackgroundColor=page;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=none;startFill=0;" value="">
-          <mxGeometry relative="1" width="160" as="geometry">
-            <mxPoint x="440" y="230" as="sourcePoint" />
-            <mxPoint x="670" y="280" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="S8r8tHHm8G7nGBH0Lgci-13" edge="1" parent="1" source="S8r8tHHm8G7nGBH0Lgci-5" style="edgeStyle=none;html=1;endArrow=open;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;defaultLabelBackgroundColor=page;exitX=0.462;exitY=1.043;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.586;entryY=0.057;entryDx=0;entryDy=0;entryPerimeter=0;" target="S8r8tHHm8G7nGBH0Lgci-7" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;">
+        <mxCell id="S8r8tHHm8G7nGBH0Lgci-13" edge="1" parent="1" source="S8r8tHHm8G7nGBH0Lgci-5" style="edgeStyle=none;html=1;endArrow=open;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;defaultLabelBackgroundColor=page;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="S8r8tHHm8G7nGBH0Lgci-7" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;">
           <mxGeometry relative="1" width="160" as="geometry">
             <mxPoint x="310" y="330" as="sourcePoint" />
             <mxPoint x="470" y="330" as="targetPoint" />
@@ -61,10 +49,10 @@
             <mxPoint x="320" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="S8r8tHHm8G7nGBH0Lgci-17" edge="1" parent="1" source="S8r8tHHm8G7nGBH0Lgci-6" style="edgeStyle=none;html=1;endArrow=none;verticalAlign=bottom;rounded=0;defaultLabelBackgroundColor=page;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=none;startFill=0;" value="">
+        <mxCell id="8UlrNlY-gyBwq1kPGJE6-3" edge="1" parent="1" style="edgeStyle=none;html=1;endArrow=block;endFill=0;endSize=12;verticalAlign=bottom;rounded=0;defaultLabelBackgroundColor=page;" value="">
           <mxGeometry relative="1" width="160" as="geometry">
-            <mxPoint x="440" y="310" as="sourcePoint" />
-            <mxPoint x="670" y="290" as="targetPoint" />
+            <mxPoint x="104.5" y="440" as="sourcePoint" />
+            <mxPoint x="104.5" y="329" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
