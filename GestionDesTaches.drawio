@@ -16,7 +16,7 @@
         <mxCell id="myWehZBtpSCy2dsrCY_x-5" parent="1" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" value="Consulter la liste des tâches" vertex="1">
           <mxGeometry height="60" width="120" x="345" y="270" as="geometry" />
         </mxCell>
-        <mxCell id="myWehZBtpSCy2dsrCY_x-6" parent="1" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" value="Créer une tâche pour soi-même" vertex="1">
+        <mxCell id="myWehZBtpSCy2dsrCY_x-6" parent="1" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" value="Créer une tâche&amp;nbsp;" vertex="1">
           <mxGeometry height="60" width="120" x="345" y="360" as="geometry" />
         </mxCell>
         <mxCell id="myWehZBtpSCy2dsrCY_x-7" parent="1" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" value="Supprimer une tâche" vertex="1">
@@ -39,15 +39,6 @@
             <mxPoint x="350" y="380" as="sourcePoint" />
             <mxPoint x="170" y="390" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="myWehZBtpSCy2dsrCY_x-13" edge="1" parent="1" source="myWehZBtpSCy2dsrCY_x-15" style="edgeStyle=none;html=1;endArrow=none;verticalAlign=bottom;rounded=0;defaultLabelBackgroundColor=page;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" value="">
-          <mxGeometry relative="1" width="160" as="geometry">
-            <mxPoint x="350" y="390" as="sourcePoint" />
-            <mxPoint x="190" y="580" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="myWehZBtpSCy2dsrCY_x-15" parent="1" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" value="Créer une tâche pour quelqu&#39;un qu&#39;on suit" vertex="1">
-          <mxGeometry height="60" width="120" x="340" y="600" as="geometry" />
         </mxCell>
         <mxCell id="myWehZBtpSCy2dsrCY_x-16" edge="1" parent="1" style="edgeStyle=none;html=1;endArrow=block;endFill=0;endSize=12;verticalAlign=bottom;rounded=0;defaultLabelBackgroundColor=page;" value="">
           <mxGeometry relative="1" width="160" as="geometry">
