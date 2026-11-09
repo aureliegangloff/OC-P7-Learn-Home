@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="KgTXbFgZ2T-R3bWg8JoX">
-    <mxGraphModel dx="1174" dy="604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1016" dy="1057" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,7 +16,7 @@
         <mxCell id="dJ7pCkw_hgiDi34VRdVW-6" parent="1" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" value="Envoyer un message" vertex="1">
           <mxGeometry height="70" width="120" x="300" y="247" as="geometry" />
         </mxCell>
-        <mxCell id="dJ7pCkw_hgiDi34VRdVW-7" parent="1" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" value="Voir l&#39;historique des conversation" vertex="1">
+        <mxCell id="dJ7pCkw_hgiDi34VRdVW-7" parent="1" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" value="Voir l&#39;historique des conversations" vertex="1">
           <mxGeometry height="70" width="120" x="300" y="344" as="geometry" />
         </mxCell>
         <mxCell id="dJ7pCkw_hgiDi34VRdVW-8" parent="1" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" value="Créer&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;&amp;nbsp;une conversation (élève ou tuteur)&lt;/span&gt;" vertex="1">
