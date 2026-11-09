@@ -1,0 +1,52 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="N7Ex65GN74Oij4Bv7QAu">
+    <mxGraphModel dx="2054" dy="1057" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pAgQ0Oh6w9oGa8u6wcVm-1" parent="1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=28;fontStyle=1;verticalAlign=middle;align=center;autosizeText=1;" value="Page Tableau de bord" vertex="1">
+          <mxGeometry height="110" width="300" x="264" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="pAgQ0Oh6w9oGa8u6wcVm-2" parent="1" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;labelPerimeter=1;" value="Elève" vertex="1">
+          <mxGeometry height="60" width="30" x="100" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="pAgQ0Oh6w9oGa8u6wcVm-3" parent="1" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" value="Voir la liste des tâches restantes" vertex="1">
+          <mxGeometry height="70" width="140" x="270" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="pAgQ0Oh6w9oGa8u6wcVm-4" parent="1" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" value="Voir la liste des prochains événements" vertex="1">
+          <mxGeometry height="70" width="140" x="270" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="pAgQ0Oh6w9oGa8u6wcVm-5" parent="1" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" value="Voir le nombre de message non lu" vertex="1">
+          <mxGeometry height="70" width="150" x="270" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="pAgQ0Oh6w9oGa8u6wcVm-6" parent="1" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;labelPerimeter=1;" value="Tuteur bénévole" vertex="1">
+          <mxGeometry height="60" width="30" x="100" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="pAgQ0Oh6w9oGa8u6wcVm-7" edge="1" parent="1" style="edgeStyle=none;html=1;endArrow=none;verticalAlign=bottom;rounded=0;defaultLabelBackgroundColor=page;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="pAgQ0Oh6w9oGa8u6wcVm-3" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="150" y="320" as="sourcePoint" />
+            <mxPoint x="470" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pAgQ0Oh6w9oGa8u6wcVm-8" edge="1" parent="1" style="edgeStyle=none;html=1;endArrow=none;verticalAlign=bottom;rounded=0;defaultLabelBackgroundColor=page;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="pAgQ0Oh6w9oGa8u6wcVm-4" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="150" y="340" as="sourcePoint" />
+            <mxPoint x="280" y="275" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pAgQ0Oh6w9oGa8u6wcVm-9" edge="1" parent="1" style="edgeStyle=none;html=1;endArrow=none;verticalAlign=bottom;rounded=0;defaultLabelBackgroundColor=page;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="pAgQ0Oh6w9oGa8u6wcVm-5" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="150" y="350" as="sourcePoint" />
+            <mxPoint x="280" y="365" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pAgQ0Oh6w9oGa8u6wcVm-10" edge="1" parent="1" style="edgeStyle=none;html=1;endArrow=block;endFill=0;endSize=12;verticalAlign=bottom;rounded=0;defaultLabelBackgroundColor=page;" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="115" y="490" as="sourcePoint" />
+            <mxPoint x="115" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
